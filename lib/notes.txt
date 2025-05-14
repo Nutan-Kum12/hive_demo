@@ -1,0 +1,11 @@
+Hive is a lightweight and blazing fast key value database written in pure dart.
+
+We can save app data on device and get it extremely fast whenever needed.
+  
+
+***********WHY HIVE?***********
+Cross Platform.
+Strong Encryption.
+No Native dependencies.
+Fast as comapred to sqlflite and shared pref.
+*********************************
